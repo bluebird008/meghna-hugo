@@ -1,4 +1,4 @@
-baseURL = "https://meghna-secrooq.netlify.com"
+baseURL = "https://meghna-secrooq.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
